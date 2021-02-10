@@ -1,0 +1,27 @@
+body{
+    background: black;
+}
+#box{
+    transform: translate(0px, 30px);
+}
+#post-header{
+    padding: 10px;
+}
+.card-size{
+    width: 40rem;
+}
+.img-margin{
+    margin-top: -10px;
+}
+.card-body{
+    margin-top: -30px;
+}
+.post{
+    margin-top: 35px;
+}
+.button-space{
+    padding: 10px;
+}
+.icon-size{
+    font-size: 30px;
+}
